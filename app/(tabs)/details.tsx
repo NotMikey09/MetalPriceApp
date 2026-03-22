@@ -13,7 +13,7 @@ export default function Details() {
 
   return (
     <SafeAreaView style={styles.container}>
-      {/* This sets the title in the Header bar automatically */}
+
       <Stack.Screen options={{ title: `${name} Analysis` }} />
 
       <View style={styles.content}>
@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
   headerSection: { alignItems: 'center', marginBottom: 30 },
   nameLabel: { fontSize: 14, color: "#8E8E93", fontWeight: '600', letterSpacing: 1 },
   mainPrice: { fontSize: 40, fontWeight: "800", color: "#1C1C1E", marginVertical: 8 },
-  updateText: { fontSize: 13, color: "#34C759", fontWeight: '500' }, // Green for 'Live' feel
+  updateText: { fontSize: 13, color: "#34C759", fontWeight: '500' }, 
   statsCard: { 
     backgroundColor: "#FFF", 
     padding: 20, 
