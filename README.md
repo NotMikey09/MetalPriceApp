@@ -5,7 +5,7 @@ A real-time financial dashboard built with **React Native** and **Expo Router** 
 
 ### 🔗 Live Links
 * **Live Web Demo:** [leafy-creponne-b42eab.netlify.app](https://leafy-creponne-b42eab.netlify.app)
-* **GitHub Repository:** `[Insert Your GitHub Link Here]`
+* **GitHub Repository:** `[https://github.com/NotMikey09/MetalPriceApp]`
 
 ---
 
